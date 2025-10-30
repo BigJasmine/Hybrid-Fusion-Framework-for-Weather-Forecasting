@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd # pyright: ignore[reportMissingModuleSource]
 import os
 
 DATA_DIR = "C:/Users/SURFACE/OneDrive - University of Bolton/API WEATHER DATA/API weather"
