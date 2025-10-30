@@ -1,5 +1,5 @@
 # app.py
-import streamlit as st
+import streamlit as st  # pyright: ignore[reportMissingImports]
 import pandas as pd
 import matplotlib.pyplot as plt
 
